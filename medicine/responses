@@ -1,0 +1,40 @@
+
+### Assistant response: ✅ **VALID**
+
+| Field | Value |
+|---|---|
+| Medicine name | PYREXOL |
+| Strength | 500mg |
+| Expiry | 08/2028 |
+| Manufactured | 09/2025 |
+| Batch no. | PX24117 |
+| Directions | Dosage:Take1tablettwotimesaday mmendeddose. |
+| Warnings | Warning:Keepoutofreac Storebelow25°Cinadryplace |
+
+<details><summary>Raw OCR text</summary>
+
+RX PRESCRIPTIONDRUG 500 PYREXOL ParacetamolTabletsIp 500mg Dosage:Take1tablettwotimesaday aftermealsorasdirectedby Warning:Keepoutofreac mmendeddose. Storebelow25°Cinadryplace B.No.PX24117 09/2025 EXP.08/2028 MFG.09/2025 Mfd.by:Sunrise Pharma Ltd.,India
+</details>
+
+
+**Spoken response:** This medicine is PYREXOL. Strength: 500mg. Expiry date: August 2028. This medicine is not expired. Directions: Dosage:Take1tablettwotimesaday mmendeddose.. Caution: Warning:Keepoutofreac Storebelow25°Cinadryplace. Please confirm with a pharmacist before use.
+
+### Assistant response: ⛔ **EXPIRED**
+
+| Field | Value |
+|---|---|
+| Medicine name | AMOCLAV-X |
+| Strength | 250mg |
+| Expiry | 03/2025 |
+| Manufactured | 04/2023 |
+| Batch no. | — |
+| Directions | Dosage:Take1tablettwotimesaday ommendeddose. |
+| Warnings | Warning:Keepoutofreac Storebelow25°Cinadryplace |
+
+<details><summary>Raw OCR text</summary>
+
+RXPRESCRIPTIONDRUG AMOCLAV-X AmoxicillinCapsulesIP 250mg Dosage:Take1tablettwotimesaday aftermealsorasdirectedby Warning:Keepoutofreac ommendeddose. Donotexceedtherecommen Storebelow25°Cinadryplace B.N0.AM22093 EXP.03/2025 MFG.04/2023 Mfd.by:Sunrise Pharma Ltd.,India
+</details>
+
+
+**Spoken response:** This medicine is AMOCLAV-X. Strength: 250mg. Expiry date: March 2025. Warning! This medicine has expired. Do not use it. Directions: Dosage:Take1tablettwotimesaday ommendeddose.. Caution: Warning:Keepoutofreac Storebelow25°Cinadryplace. Please confirm with a pharmacist before use.
